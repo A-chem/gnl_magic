@@ -1,4 +1,6 @@
-# 📄 get_next_line (42 Project)
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/6406f37e-3f16-4ad8-9504-6cd7cf626e7c" />
+# 📄 get_next_lin
+e (42 Project)
 
 `get_next_line` is a project from the [42](https://42.fr) curriculum.  
 Its goal is to implement a function that reads from a file descriptor **one line at a time**, no matter the size of the file or buffer.  
